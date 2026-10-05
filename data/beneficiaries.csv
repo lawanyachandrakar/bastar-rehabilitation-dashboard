@@ -1,0 +1,101 @@
+Beneficiary_ID	District	Gender	Primary_Skill	Placement	Monthly_Income	Month_3_Status	Month_12_Status	Month_24_Status	Overall_Status
+B001	Bastar	Male	Driving	Driving	8328	Retained	Retained	Dropped	Stable
+B002	Narayanpur	Male	Construction	Construction	6744	Retained	Retained	Retained	Stable
+B003	Narayanpur	Male	Food Processing	Cafe/Hospitality	8305	Retained	Retained	Not Due	Stable
+B004	Sukma	Female	Carpentry	Construction	7773	Retained	Dropped	Retained	Flagged
+B005	Dantewada	Male	Carpentry	Construction	11445	Retained	Retained	Retained	Stable
+B006	Bastar	Female	Tailoring	Handloom	13294	Retained	Dropped	Retained	Flagged
+B007	Sukma	Male	Agriculture	Agriculture	12832	Retained	Retained	Retained	Stable
+B008	Bastar	Female	Driving	Logistics	11707	Retained	Retained	Retained	Stable
+B009	Bijapur	Male	Handloom	Handloom	7838	Retained	Retained	Not Due	Stable
+B010	Narayanpur	Male	Carpentry	Carpentry	8376	Retained	Dropped	Retained	Flagged
+B011	Bastar	Male	Carpentry	Carpentry	11869	Retained	Dropped	Retained	Flagged
+B012	Sukma	Female	Handloom	Handloom	12602	Retained	Retained	Retained	Stable
+B013	Narayanpur	Female	Carpentry	Carpentry	7633	Retained	Retained	Retained	Stable
+B014	Bastar	Male	Handloom	Tailoring	11385	Retained	Retained	Not Due	Stable
+B015	Narayanpur	Female	Food Processing	Food Processing	12072	Retained	Retained	Retained	Stable
+B016	Bijapur	Female	Tailoring	Handloom	10061	Retained	Retained	Dropped	Stable
+B017	Bijapur	Male	Food Processing	Food Processing	13631	Retained	Dropped	Retained	Flagged
+B018	Sukma	Male	Carpentry	Carpentry	10918	Dropped	Dropped	Not Due	Flagged
+B019	Narayanpur	Female	Livestock	Livestock	7416	Dropped	Dropped	Not Due	Flagged
+B020	Bijapur	Male	Agriculture	Agriculture	13692	Retained	Retained	Dropped	Stable
+B021	Bastar	Male	Handloom	Tailoring	11003	Retained	Retained	Retained	Stable
+B022	Sukma	Male	Driving	Logistics	12002	Retained	Retained	Retained	Stable
+B023	Bastar	Male	Hospitality	Cafe/Hospitality	9269	Retained	Retained	Retained	Stable
+B024	Bastar	Male	Agriculture	Agriculture	7052	Dropped	Dropped	Retained	Flagged
+B025	Sukma	Female	Livestock	Livestock	10917	Retained	Dropped	Retained	Flagged
+B026	Dantewada	Male	Livestock	Agriculture	8059	Retained	Retained	Retained	Stable
+B027	Dantewada	Female	Agriculture	Agriculture	6996	Retained	Retained	Not Due	Stable
+B028	Sukma	Male	Hospitality	Food Processing	7648	Retained	Retained	Retained	Stable
+B029	Bastar	Female	Food Processing	Food Processing	6914	Retained	Retained	Retained	Stable
+B030	Bastar	Male	Handloom	Tailoring	10478	Retained	Dropped	Not Due	Flagged
+B031	Sukma	Female	Agriculture	Livestock	8672	Dropped	Dropped	Retained	Flagged
+B032	Narayanpur	Female	Handloom	Handloom	8930	Retained	Retained	Dropped	Stable
+B033	Bastar	Female	Agriculture	Agriculture	11285	Retained	Dropped	Retained	Flagged
+B034	Bastar	Male	Handloom	Handloom	11374	Retained	Dropped	Retained	Flagged
+B035	Narayanpur	Male	Agriculture	Agriculture	9934	Retained	Retained	Retained	Stable
+B036	Bijapur	Male	Carpentry	Carpentry	8675	Retained	Retained	Retained	Stable
+B037	Bijapur	Male	Agriculture	Livestock	11588	Dropped	Dropped	Retained	Flagged
+B038	Sukma	Female	Handloom	Tailoring	13716	Retained	Retained	Retained	Stable
+B039	Dantewada	Female	Food Processing	Food Processing	11971	Retained	Retained	Dropped	Stable
+B040	Sukma	Female	Tailoring	Tailoring	12581	Retained	Retained	Retained	Stable
+B041	Bijapur	Male	Driving	Logistics	8557	Dropped	Dropped	Retained	Flagged
+B042	Dantewada	Female	Agriculture	Agriculture	9232	Retained	Retained	Retained	Stable
+B043	Dantewada	Female	Food Processing	Food Processing	7416	Retained	Dropped	Not Due	Flagged
+B044	Narayanpur	Male	Carpentry	Carpentry	10020	Retained	Retained	Not Due	Stable
+B045	Bastar	Female	Hospitality	Cafe/Hospitality	11963	Retained	Dropped	Not Due	Flagged
+B046	Dantewada	Male	Hospitality	Cafe/Hospitality	13052	Retained	Dropped	Retained	Flagged
+B047	Bijapur	Female	Hospitality	Food Processing	7804	Retained	Retained	Not Due	Stable
+B048	Dantewada	Male	Hospitality	Food Processing	9364	Retained	Dropped	Retained	Flagged
+B049	Bastar	Male	Construction	Carpentry	8782	Dropped	Dropped	Retained	Flagged
+B050	Narayanpur	Female	Food Processing	Cafe/Hospitality	6726	Retained	Dropped	Retained	Flagged
+B051	Bijapur	Male	Tailoring	Handloom	9331	Retained	Retained	Retained	Stable
+B052	Narayanpur	Male	Construction	Construction	8586	Retained	Retained	Retained	Stable
+B053	Narayanpur	Male	Carpentry	Construction	7073	Dropped	Dropped	Retained	Flagged
+B054	Bastar	Female	Food Processing	Cafe/Hospitality	11963	Retained	Retained	Retained	Stable
+B055	Sukma	Male	Construction	Carpentry	12048	Retained	Retained	Retained	Stable
+B056	Dantewada	Male	Driving	Logistics	8221	Retained	Retained	Dropped	Stable
+B057	Dantewada	Female	Livestock	Livestock	10687	Retained	Dropped	Dropped	Flagged
+B058	Sukma	Male	Driving	Logistics	7265	Retained	Dropped	Dropped	Flagged
+B059	Sukma	Male	Handloom	Handloom	6878	Retained	Retained	Not Due	Stable
+B060	Bastar	Female	Construction	Construction	12384	Retained	Retained	Retained	Stable
+B061	Bastar	Male	Construction	Construction	7940	Retained	Retained	Retained	Stable
+B062	Narayanpur	Male	Tailoring	Handloom	7592	Retained	Retained	Not Due	Stable
+B063	Narayanpur	Female	Livestock	Agriculture	13304	Dropped	Retained	Retained	Flagged
+B064	Dantewada	Female	Driving	Driving	13380	Retained	Dropped	Retained	Flagged
+B065	Sukma	Female	Livestock	Livestock	12345	Retained	Retained	Retained	Stable
+B066	Narayanpur	Male	Handloom	Handloom	8394	Retained	Retained	Retained	Stable
+B067	Dantewada	Female	Carpentry	Construction	9906	Retained	Dropped	Retained	Flagged
+B068	Narayanpur	Male	Construction	Carpentry	6548	Dropped	Retained	Retained	Flagged
+B069	Dantewada	Male	Livestock	Livestock	8735	Retained	Retained	Retained	Stable
+B070	Dantewada	Male	Livestock	Livestock	11597	Retained	Dropped	Retained	Flagged
+B071	Bastar	Male	Construction	Construction	13601	Retained	Retained	Retained	Stable
+B072	Sukma	Female	Carpentry	Construction	12735	Dropped	Retained	Not Due	Flagged
+B073	Dantewada	Female	Tailoring	Handloom	6658	Retained	Retained	Not Due	Stable
+B074	Sukma	Male	Agriculture	Agriculture	8525	Retained	Retained	Retained	Stable
+B075	Sukma	Female	Tailoring	Tailoring	10309	Retained	Dropped	Retained	Flagged
+B076	Narayanpur	Male	Handloom	Tailoring	7385	Retained	Dropped	Retained	Flagged
+B077	Dantewada	Female	Hospitality	Cafe/Hospitality	11350	Retained	Retained	Retained	Stable
+B078	Bijapur	Male	Agriculture	Livestock	10864	Retained	Retained	Retained	Stable
+B079	Bijapur	Male	Construction	Carpentry	7364	Retained	Retained	Not Due	Stable
+B080	Dantewada	Male	Construction	Construction	12511	Retained	Retained	Retained	Stable
+B081	Narayanpur	Female	Livestock	Agriculture	13264	Retained	Retained	Not Due	Stable
+B082	Bastar	Female	Livestock	Livestock	12647	Retained	Retained	Retained	Stable
+B083	Bastar	Female	Carpentry	Carpentry	10494	Retained	Dropped	Retained	Flagged
+B084	Narayanpur	Female	Food Processing	Food Processing	10732	Dropped	Retained	Dropped	Flagged
+B085	Dantewada	Male	Livestock	Agriculture	10171	Retained	Retained	Retained	Stable
+B086	Sukma	Female	Carpentry	Construction	11034	Retained	Retained	Dropped	Stable
+B087	Bijapur	Female	Livestock	Agriculture	9011	Retained	Retained	Retained	Stable
+B088	Bastar	Male	Hospitality	Cafe/Hospitality	12550	Retained	Retained	Not Due	Stable
+B089	Narayanpur	Female	Tailoring	Tailoring	8926	Retained	Retained	Retained	Stable
+B090	Narayanpur	Male	Driving	Driving	6946	Retained	Retained	Retained	Stable
+B091	Dantewada	Male	Agriculture	Livestock	10345	Retained	Retained	Not Due	Stable
+B092	Bijapur	Female	Tailoring	Tailoring	9782	Retained	Retained	Dropped	Stable
+B093	Sukma	Male	Driving	Driving	8533	Retained	Dropped	Retained	Flagged
+B094	Narayanpur	Male	Food Processing	Cafe/Hospitality	10190	Dropped	Retained	Retained	Flagged
+B095	Dantewada	Female	Agriculture	Agriculture	12748	Retained	Retained	Dropped	Stable
+B096	Sukma	Male	Handloom	Handloom	7782	Retained	Retained	Retained	Stable
+B097	Bijapur	Male	Hospitality	Food Processing	12291	Retained	Dropped	Retained	Flagged
+B098	Sukma	Female	Hospitality	Food Processing	7440	Retained	Retained	Not Due	Stable
+B099	Sukma	Male	Agriculture	Agriculture	12993	Retained	Retained	Retained	Stable
+B100	Bijapur	Female	Tailoring	Handloom	12141	Retained	Retained	Retained	Stable
